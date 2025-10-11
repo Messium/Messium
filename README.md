@@ -1,5 +1,5 @@
 > La yerba mate despierta a los dormidos, corrige a los haraganes y hace hermanas a las gentes que no se conocen.
-> Eduardo Galeano
+> - Eduardo Galeano
 ## Hi there 👋
 
 I'm learning the ways of automation, mainly focus on DevOps
