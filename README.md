@@ -1,3 +1,12 @@
+### 🌟 Skills
+- **Automation Tools (IaC):** Ansible, Terraform, Pulumi
+- **Programming Languages:** Python, Bash, Lua
+- DevSecOps: HashiCorpVault, OpenBao
+
+<!-- ### 🛠️ Projects -->
+<!-- - [Project Name](link_to_project): Brief description of what the project is about. -->
+<!-- - [Another Project](link_to_another_project): Brief description of what this project does. -->
+
 > La yerba mate despierta a los dormidos, corrige a los haraganes y hace hermanas a las gentes que no se conocen.
 > - Eduardo Galeano
 ## Hi there 👋
