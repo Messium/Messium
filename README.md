@@ -14,7 +14,9 @@
 
 ## Hi there 👋
 
-I'm learning the ways of automation, mainly focus on DevOps
+I'm learning the ways of automation, mainly focus on DevOps. Im specially interested in literate programming, DocOps with orgmode, AsciiDoc etc.
+> [!TIP]
+> test
 
 
 # OS:
