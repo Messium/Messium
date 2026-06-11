@@ -14,10 +14,7 @@
 
 ## Hi there 👋
 
-I'm learning the ways of automation, mainly focus on DevOps. Im specially interested in literate programming, DocOps with orgmode, AsciiDoc etc.
-> [!TIP]
-> test
-
+I'm learning the ways of automation, mainly focus on DevOps. Interested in literate programming, DocOps with orgmode, AsciiDoc etc.
 
 # OS:
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge)
